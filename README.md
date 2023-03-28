@@ -17,7 +17,7 @@ Below are the DATA related projects I have done! 😄
 ---
 ### 📔 Coding NoteBook
 
-- [📒Full-stack DA notebook｜ML/DL/DE/DA全能选手养成ing](https://jace-yang.github.io/Full-Stack_Data-Analyst)                                                                                                                     
+- [                                                                                                         
 ### 📇 DA Projects
 
 -                                                                                                                               
