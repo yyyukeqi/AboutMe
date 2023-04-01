@@ -15,9 +15,10 @@ My GitHub info:
 Below are the DATA related projects I have done! 😄
 
 ---
+                                                                                       
 ### 📔 Coding NoteBook
 
--  [📈 &P500 Stock Price and Market News Search Engine ](https://www.linkedin.com/in/melissa-keqi-yu/ ) (https://github.com/yyyukeqi/S-P500-Stock-Price-Market-News-Search-Engine/blob/main/Stock%20Price%20and%20Company%20News.pdf)                                                                                                  
+-  [ 📈 &P500 Stock Price and Market News Search Engine ](https://github.com/yyyukeqi/S-P500-Stock-Price-Market-News-Search-Engine/blob/main/Stock%20Price%20and%20Company%20News.pdf)                                                                                                  
 ### 📇 DA Projects
 
 -                                                                                                                               
