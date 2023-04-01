@@ -16,7 +16,7 @@ Below are the DATA related projects I have done! 😄
 
 ---
                                                                                        
-### 📔 Coding NoteBook
+### 🚜 DE Projects
 
 -  [ 📈 &P500 Stock Price and Market News Search Engine ](https://github.com/yyyukeqi/S-P500-Stock-Price-Market-News-Search-Engine/blob/main/Stock%20Price%20and%20Company%20News.pdf)                                                                                                  
 ### 📇 DA Projects
