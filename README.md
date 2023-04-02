@@ -20,7 +20,7 @@ Below are the DATA related projects I have done! 😄
 
 - [ 📚 Covid-19 Impact on the Usage of E-Resources Analysis ](https://github.com/yyyukeqi/Covid-19-impact-on-usage-of-e-resources-analysis-report/blob/main/Covid%20impact%20on%20usage%20of%20e-resources%20analysis%20report.pdf)                                                                   
                                                                                                                                           
-- [ 🚚 SQL Data Analysis (Physical data model) ] (https://github.com/yyyukeqi/SQL-Project)                                                                                                                                                                                                                         
+- [ 🚚 SQL Data Analysis - Physical data model ] (https://github.com/yyyukeqi/SQL-Project)                                                                                                                                                                                                                         
  
 ### DS Projects
                                                                                                                                           
