@@ -24,7 +24,9 @@ Below are the DATA related projects I have done! 😄
 ### DS Projects
                                                                                                                                           
 - [ 🐕 Identify the Appropriateness in Advertising a dog food brand with respect to other features ](https://github.com/yyyukeqi/ML-model-to-identify-the-appropriateness-in-advertising-a-dog-food-brand)        
-                                                                                                                                     
+
+- [ 🛫 Cluster Analysis on Survival Rate on Air Disaster and Text Mining ](https://github.com/yyyukeqi/Cluster-Analysis-on-Survival-Rate-on-Air-Disaster/blob/main/Project%20copy.pdf)
+
 - [ 🏡 Predicting Airbnb Rental Price ](https://github.com/yyyukeqi/Predicting-Airbnb-Rental-Price/blob/main/Final%20kaggle%20report.pdf)                                                                                                                                       
                                                                                        
 ### 🚜 DE Projects
