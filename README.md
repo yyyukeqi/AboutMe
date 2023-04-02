@@ -9,7 +9,7 @@ My GitHub info:
 
 <img src="https://github-readme-stats.vercel.app/api?username=yyyukeqi&count_private=true&show_icons=true&theme=tokyonight" alt="drawing" width="350"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yyyukeqi&hide_progress=true&theme=radic alt="drawing" width="350"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yyyukeqi&hide_progress=true&theme=radic" alt="drawing" width="350"/>
 
 Below are the DATA related projects I have done! 😄
 
