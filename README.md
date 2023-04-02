@@ -17,17 +17,19 @@ Below are the DATA related projects I have done! 😄
                                                                                                                                           
 ### 📇 DA Projects
 
-- [ 📚 Covid-19 Impact on the Usage of E-Resources Analysis ](https://github.com/yyyukeqi/Covid-19-impact-on-usage-of-e-resources-analysis-report/blob/main/Covid%20impact%20on%20usage%20of%20e-resources%20analysis%20report.pdf)                                                                   
+- [ 📚 Covid-19 Impact on the Usage of E-Resources Analysis ](https://github.com/yyyukeqi/Covid-19-impact-on-usage-of-e-resources-analysis-report/blob/main/Covid%20impact%20on%20usage%20of%20e-resources%20analysis%20report.pdf)                                                                 
                                                                                                                                           
 - [ 🚚 SQL Data Analysis - Physical data model ](https://github.com/yyyukeqi/SQL-Project)                                                                                                                                                                                                                         
  
 ### DS Projects
                                                                                                                                           
-- [ 🐕 Identify the Appropriateness in Advertising a dog food brand with respect to other features ](https://github.com/yyyukeqi/ML-model-to-identify-the-appropriateness-in-advertising-a-dog-food-brand)                                                                                                                                              
+- [ 🐕 Identify the Appropriateness in Advertising a dog food brand with respect to other features ](https://github.com/yyyukeqi/ML-model-to-identify-the-appropriateness-in-advertising-a-dog-food-brand)        
+                                                                                                                                     
 - [ 🏡 Predicting Airbnb Rental Price ](https://github.com/yyyukeqi/Predicting-Airbnb-Rental-Price/blob/main/Final%20kaggle%20report.pdf)                                                                                                                                       
                                                                                        
 ### 🚜 DE Projects
                                                                                                                                           
-- [ 🌐 MongoDB Search Engine ](https://github.com/yyyukeqi/MongoDB-search-engine)                                                                                                                                          
+- [ 🌐 MongoDB Search Engine ](https://github.com/yyyukeqi/MongoDB-search-engine)                                                                         
+                                                                 
 -  [ 📈 &P500 Stock Price and Market News Search Engine ](https://github.com/yyyukeqi/S-P500-Stock-Price-Market-News-Search-Engine/blob/main/Stock%20Price%20and%20Company%20News.pdf)                                                                                                  
                                                                                                                         
