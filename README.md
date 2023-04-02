@@ -1,8 +1,7 @@
 ## 𝗛𝗶, 𝘁𝗵𝗲𝗿𝗲 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="2.5%"/> [<img align="right" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" width="22px"/>](https://www.linkedin.com/in/melissa-keqi-yu/)
 
 
-
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="375" height="240" />
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="375" height="240"/>
 
 I'm Keqi Yu, a data analyst graduate student at Columbia University. My career pursue is towards becoming a ["full stack data analyst"](https://towardsdatascience.com/why-i-choose-full-stack-data-analytics-as-my-career-path-d7b3986e0285) 💪.
 
