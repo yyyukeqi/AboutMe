@@ -9,7 +9,6 @@ My GitHub info:
 
 <img src="https://github-readme-stats.vercel.app/api?username=yyyukeqi&count_private=true&show_icons=true&theme=tokyonight" alt="drawing" width="350"/>
 
-<img src="https://api.githubtrends.io/user/svg/yyyukeqi/langs?time_range=one_year&include_private=True&theme=classic" alt="drawing" width="350"/>
 
 Below are the DATA related projects I have done! 😄
 
@@ -22,7 +21,8 @@ Below are the DATA related projects I have done! 😄
 - [ 🚚 SQL Data Analysis - Physical data model ](https://github.com/yyyukeqi/SQL-Project)                                                                                                                                                                                                                         
  
 ### DS Projects
-                                                                                                                                          
+
+- [ 🔎 Text Classification Model on Stack Overflow ](https://github.com/yyyukeqi/Text-Classification-Model-on-Stack-Overflow)
 - [ 🐕 Identify the Appropriateness in Advertising a dog food brand with respect to other features ](https://github.com/yyyukeqi/ML-model-to-identify-the-appropriateness-in-advertising-a-dog-food-brand)        
 
 - [ 🛫 Cluster Analysis on Survival Rate on Air Disaster and Text Mining ](https://github.com/yyyukeqi/Cluster-Analysis-on-Survival-Rate-on-Air-Disaster/blob/main/Project%20copy.pdf)
