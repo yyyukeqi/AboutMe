@@ -27,7 +27,7 @@ Below are the DATA related projects I have done! 😄
 
 - [ 🛫 Cluster Analysis on Survival Rate on Air Disaster and Text Mining ](https://github.com/yyyukeqi/Cluster-Analysis-on-Survival-Rate-on-Air-Disaster/blob/main/Project%20copy.pdf)
 
-- [ 🏡 Predicting Airbnb Rental Price ](https://github.com/yyyukeqi/Predicting-Airbnb-Rental-Price/blob/main/Final%20kaggle%20report.pdf)                                                                                                                                       
+- [ 🏡 Predicting Airbnb Rental Price Using Random Forest and XGboost ](https://github.com/yyyukeqi/Predicting-Airbnb-Rental-Price/blob/main/Final%20kaggle%20report.pdf)                                                                                                                                       
                                                                                        
 ### 🚜 DE Projects
                                                                                                                                           
