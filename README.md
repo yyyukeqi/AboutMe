@@ -24,7 +24,10 @@ Below are the DATA related projects I have done! 😄
  
 ### DS Projects
 
+- [ 📈 Time Series Sales Revenue Prediction ](https://github.com/yyyukeqi/Predict-Sales-Revenue-)
+
 - [ 🔎 Text Classification Model on Stack Overflow ](https://github.com/yyyukeqi/Text-Classification-Model-on-Stack-Overflow)
+
 - [ 🐕 Identify the Appropriateness in Advertising a dog food brand with respect to other features ](https://github.com/yyyukeqi/ML-model-to-identify-the-appropriateness-in-advertising-a-dog-food-brand)        
 
 - [ 🛫 Cluster Analysis on Survival Rate on Air Disaster and Text Mining ](https://github.com/yyyukeqi/Cluster-Analysis-on-Survival-Rate-on-Air-Disaster/blob/main/Project%20copy.pdf)
