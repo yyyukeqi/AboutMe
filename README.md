@@ -27,7 +27,7 @@ Below are the DATA related projects I have done! 😄
 
 ### DS Projects
 
-- [ 📈 Time Series Sales Revenue Prediction ](https://github.com/yyyukeqi/Predict-Sales-Revenue-)
+- [ 📈 Time Series Sales Revenue Prediction using LSTM Model ](https://github.com/yyyukeqi/Predict-Sales-Revenue-)
 
 - [ 🔎 Text Classification Model on Stack Overflow ](https://github.com/yyyukeqi/Text-Classification-Model-on-Stack-Overflow)
 
