@@ -31,7 +31,7 @@ Below are the DATA related projects I have done! 😄
 
 - [ 🔎 Text Classification Model on Stack Overflow ](https://github.com/yyyukeqi/Text-Classification-Model-on-Stack-Overflow)
 
-- [ 🐕 Identify the Appropriateness in Advertising a dog food brand with respect to other features ](https://github.com/yyyukeqi/ML-model-to-identify-the-appropriateness-in-advertising-a-dog-food-brand)        
+- [ 🐕 Identify the Appropriateness in Advertising a dog food brand with respect to other features Using Classification Random Forest ](https://github.com/yyyukeqi/ML-model-to-identify-the-appropriateness-in-advertising-a-dog-food-brand)        
 
 - [ 🛫 Cluster Analysis on Survival Rate on Air Disaster and Text Mining ](https://github.com/yyyukeqi/Cluster-Analysis-on-Survival-Rate-on-Air-Disaster/blob/main/Project%20copy.pdf)
 
