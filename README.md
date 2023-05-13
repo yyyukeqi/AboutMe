@@ -19,7 +19,8 @@ Below are the DATA related projects I have done! 😄
 - [ 🧤 Measuring Total Addressable Market for Ansell (Capstone Project) ](https://github.com/yyyukeqi/Measuring-Total-Addressable-Market-for-Ansell-Capstone-Project-)
 
 - [ 📚 Covid-19 Impact on the Usage of E-Resources Analysis ](https://github.com/yyyukeqi/Covid-19-impact-on-usage-of-e-resources-analysis-report/blob/main/Covid%20impact%20on%20usage%20of%20e-resources%20analysis%20report.pdf)                                                                 
-                                                                                                                                          
+- [ 🔬 SAS Clincial Data Analysis ](https://github.com/yyyukeqi/SAS_Clinical_Data_Analysis)                                                       
+                                                                        
 - [ 🚚 SQL Data Analysis - Physical data model ](https://github.com/yyyukeqi/SQL-Project) 
 
 - [ 🎨 R-shiny Project ](https://github.com/yyyukeqi/R-shiny)
